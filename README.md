@@ -3,7 +3,7 @@
 Le lien de mon portfolio : [https://naofalpereira.fr/](https://naofalpereira.fr/) 💻 👀
 
 - 🔭 Je travaille actuellement sur un projet de mentorat par Inteligence Artificielle
-- 🌱 J'apprends en continu et sur tout
+- 🌱 J'apprends en continu
 - 🤝 Je suis ouvert à toutes les opportunités de collaboration !
 
 
